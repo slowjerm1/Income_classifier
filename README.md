@@ -26,10 +26,11 @@ To use this project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/slowjerm1/Adult-Income-Dataset.git`
 2. download the dataset at `https://www.kaggle.com/datasets/wenruliu/adult-income-dataset` or from my data folder .
-3. Install the required dependencies: `pip install -r requirements.txt`
-4. Preprocess the data: Run the data preprocessing scripts to clean and transform the dataset.
-5. Train the models: Run the model training scripts to train and evaluate different models.
-6. Deploy the final model
+3. cd into the project folder and create virtual environment .
+4. Install the required dependencies: `pip install -r requirements.txt`.
+5. Preprocess the data: Run the data preprocessing scripts to clean and transform the dataset.
+6. Train the models: Run the model training scripts to train and evaluate different models.
+7. Deploy the final model
 
 
 
